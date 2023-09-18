@@ -5,7 +5,7 @@ import Main from "./components/Main/Main"
 import { useState } from 'react';
 
 function App() {
-  const [auth, setAuth] = useState(true)
+  const [auth, setAuth] = useState(false)
   return (
     <div className="App">
       {
