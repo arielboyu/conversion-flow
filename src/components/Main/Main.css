@@ -1,0 +1,9 @@
+.main-box {
+    display: flex;
+    background-color: #1691ff;
+}
+.routes-box {
+    width: 600px;
+    margin-left: 120px;
+    margin-top:100px;
+}

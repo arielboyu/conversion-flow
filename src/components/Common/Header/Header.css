@@ -1,0 +1,31 @@
+.header-box {
+    padding-top:10px;
+}
+.header-items {
+  display: flex;
+  justify-content: space-around;
+      border-bottom:0.5px solid grey;
+}
+.header-logo {
+    width: 60px;
+    margin-bottom: 20px;
+}
+
+.buttons-box {
+    padding-top:20px;
+}
+
+.register-button {
+background-color: blue;
+border-radius: 30px;
+color:white;
+font-style: bold;
+height: 20px;
+margin-left: 20px;
+}
+
+.login-button {
+    background-color: transparent;
+    border-radius: 30px;
+    color: blue;
+}

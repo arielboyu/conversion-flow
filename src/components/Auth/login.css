@@ -1,0 +1,40 @@
+.login-box {
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+}
+
+.input-box {
+    width: 448px;
+}
+
+input {
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-color: #002D62;
+}
+
+.face {
+    font-size:10px;
+    height: 10px;
+}
+.buttons-panel {
+    display: flex;
+    flex-direction: column;
+}
+
+.social-buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.confirm-button {
+    margin-top: 20px;
+    background-color: #00308F;
+    border-radius: 30px;
+    color: white;
+    margin-bottom: 20px;
+    height: 50px;  margin-top:60px;
+}

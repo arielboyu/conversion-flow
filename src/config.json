@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "name": "Panel",
+        "image": "https://encrypted-tbn0.gstatic.com/  image:s?q=tbn:ANd9GcQWXoD8kTV5XEwcVWpxlJlDDnrM8VCngRgqSg&usqp=CAU",
+        "link": "/panel"
+    },
+    {
+        "id": "1",
+        "name": "Leads",
+        "link": "/leads",
+        "image": "https://encrypted-tbn0.gstatic.com/  image:s?q=tbn:ANd9GcSM29Ii0tFiAO-ljgfvWx7l9PLcGvZVu0uOfw&usqp=CAU"
+    },
+    {
+        "id": "2",
+        "name": "Chats",
+        "link": "/chats",
+        "image": "https://cdn-icons-png.flaticon.com/512/552/552486.png"
+    },
+    {
+        "id": 3,
+        "name": "Agenda",
+        "link": "/calendario",
+        "image": "https://media.istockphoto.com/id/1212381977/es/vector/icono-de-calendario-de-dise%C3%B1o-plano-simple.jpg?s=612x612&w=0&k=20&c=rH2qnbNgiZIKp2fghqjhLUr7r97KTgCheIoVuFUmKEY="
+    }
+]
