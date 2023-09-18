@@ -54,7 +54,7 @@ const Login = ({ setAuth }) => {
                     <div>
                         <GoogleButton
                             textButton="Facebook"
-                            style={{ height: '55px' }}
+                            style={{ height: '50px' }}
                             onClick={() => { console.log('Google button clicked') }}
                         />
                     </div>

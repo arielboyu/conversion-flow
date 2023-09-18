@@ -9,13 +9,13 @@ const SideBar = ({setAuth}) => {
             <div>
                 <button onClick={ () => setAuth(false)} style={{backgroundColor:"transparent",color:'white',marginBottom:'6px',border:"none"}} >x</button>
             </div>
-            <img   className="avatar-image"
+            <img alt="avatar"  className="avatar-image"
                 src={avatar} ></img>
             {
                 panelButtons.map((item) =>
                 <Link to={item.link} key={item.name} 
                 className="button-list" >
-                    <img className="item-image"
+                    <img alt="item" className="item-image"
                     src={item.image} >
                     </img>{item.name}</Link>
                 )

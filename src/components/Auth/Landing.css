@@ -1,0 +1,14 @@
+.landing-box {
+    margin-top:100px
+}
+
+.landing-image {
+    border-radius:40px
+}
+
+
+@media (max-width: 768px) {
+    .landing-image {
+        width: 260px;
+    }
+  }

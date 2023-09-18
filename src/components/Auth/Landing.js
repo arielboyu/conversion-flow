@@ -1,10 +1,11 @@
 import React from "react"
-
+import "./Landing.css"
 
 const Landing = () => {
     return (
-        <div style={{marginTop:"100px",borderRadius:"40px"}}>
-            <img  style={{borderRadius:"40px"}} src="https://i.ibb.co/0J8bnnR/descarga.jpg" ></img>
+        <div className="landing-box">
+            <img alt="landing" className="landing-image" 
+             src="https://i.ibb.co/0J8bnnR/descarga.jpg" ></img>
         </div>
     )
 }
